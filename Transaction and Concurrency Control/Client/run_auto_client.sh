@@ -1,0 +1,1 @@
+java -Djava.security.policy=java.policy -cp ../Server/RMIAll.jar:. Client.RMIAutoClient $1 $2 $3

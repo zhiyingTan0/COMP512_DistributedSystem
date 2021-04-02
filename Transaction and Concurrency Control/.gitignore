@@ -1,0 +1,12 @@
+*.class
+Server/java.policy
+Client/java.policy
+Server/Server/.DS_Store
+Server/.DS_Store
+Client/.DS_Store
+.DS_Store
+.idea/
+Middleware/.DS_Store
+Middleware/java.policy
+Server/Server/Common/.DS_Store
+Template.iml
