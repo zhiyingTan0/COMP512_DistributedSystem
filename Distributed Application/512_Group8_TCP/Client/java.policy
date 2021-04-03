@@ -1,0 +1,3 @@
+grant codebase "file:/Users/leocheung/Desktop/512_Group8_TCP/Client/" {
+permission java.security.AllPermission;
+};
