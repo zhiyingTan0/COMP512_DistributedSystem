@@ -14,7 +14,7 @@ Distribute the user's request through the middleware to different server. Both R
 
 https://github.com/zhiyingTan0/COMP512_DistributedSystem/tree/main/Transaction%20and%20Concurrency%20Control
 
-Implement the lock manager, centralized transactions and Distributed Transaction(strict 2PL) in the middleware layer to manipulate different requests from client. Process all the transactions concurrently.
+Implement the lock manager, centralized transactions and Distributed Transaction(strict 2PL) in the middleware layer to manipulate different requests from client. Process the submitted transactions concurrently.
 
 <img width="813" alt="Screen Shot 2021-04-02 at 8 25 41 PM" src="https://user-images.githubusercontent.com/50588149/113463010-b059ab00-93f1-11eb-916a-654df5093fd5.png">
 
