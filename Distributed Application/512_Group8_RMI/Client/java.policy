@@ -1,0 +1,3 @@
+grant codebase "file:/Users/leocheung/Desktop/Template/Client/" {
+permission java.security.AllPermission;
+};
